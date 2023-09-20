@@ -2,8 +2,6 @@
 Welcome carousels in kivy
 
 ->Requirements:
-
-
-
     *Kivy
     *Kivymd
+    *pycharm
